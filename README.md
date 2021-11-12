@@ -53,7 +53,7 @@
 
 ## Other Technologies
 <ol>
-  <li> Web Sockets</li>
+  <li> Web Sockets   -----------------------------TO-START-------------------------------------------------- </li>
 </ol>
 
 ## Projects
@@ -67,3 +67,16 @@
   <li> Pagination</li>
   <li> Infinite Scroll</li>  
 </ol>
+
+## CSS Preprocessors
+<ol>
+  <li> LESS</li>
+  <li> SASS</li>  
+</ol>
+
+## Testing 
+<ol>
+  <li> RTL</li>
+  <li> JEST</li>  
+</ol>
+
